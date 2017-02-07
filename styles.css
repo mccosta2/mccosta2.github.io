@@ -1,0 +1,36 @@
+body {
+	background:blue;
+}
+
+nav {
+	border-width: 2px;
+	border-style: dotted;
+	border-color:purple;
+	padding: 10px;
+}
+
+img {
+	margin: 10px;
+}
+
+footer {
+	text-align: center;
+}
+
+h1#formula {
+
+	  background: url(images/RightTriangle.jpg);
+}
+
+a {font-weight: bold;}
+
+p#tableintro {
+	font-family: helvetica;
+}
+
+td.classy {text-transform: capitalize;}
+
+a:visited {
+	color: orange;
+}
+
